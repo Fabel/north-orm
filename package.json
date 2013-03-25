@@ -1,0 +1,24 @@
+{
+  "name": "north-orm",
+  "description": "orm for framework north",
+  "version": "0.1.0",
+  "author": {
+    "name": "Tarasov Fedor",
+    "email": "tarassovf@gmail.com"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Fabel/north-orm.git"
+  },
+  "dependencies": {
+    "pg": "0.7.x",
+    "ejs": "0.8.x",
+    "fibers": "1.0.x",
+    "websocket": "1.0.x"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
+
