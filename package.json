@@ -17,6 +17,9 @@
   },
   "engines": {
     "node": ">= 0.8.0"
-  }
+  },
+  "readme": "#North-orm\n\n## Simple ORM\n\n## Documentation\n\n### work in progress\n\n[Russian doc](https://github.com/Fabel/north/wiki/Documentation-rus)\n\n[Tutorial](https://github.com/Fabel/north/wiki/Tutorial)\n\n[API](https://github.com/Fabel/north/wiki/API)\n\n##License\n\n(The MIT License)\nCopyright (C) 2013 Tarassov Fedor<tarassovf@gmail.com>\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n",
+  "readmeFilename": "README.md",
+  "_id": "north-orm@0.1.0",
+  "_from": "north-orm@>=0.1.0"
 }
-
