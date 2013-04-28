@@ -1,7 +1,7 @@
 {
   "name": "north-orm",
   "description": "orm for framework north",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Tarasov Fedor",
     "email": "tarassovf@gmail.com"
